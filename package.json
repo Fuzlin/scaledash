@@ -1,0 +1,8 @@
+{
+  "name": "yggdrasil",
+  "version": "0.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "tslint": "^5.11.0"
+  }
+}

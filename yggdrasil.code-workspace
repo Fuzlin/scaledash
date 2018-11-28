@@ -1,0 +1,64 @@
+{
+  "folders": [
+    {
+      "path": "packages/api"
+    },
+    {
+      "path": "packages/web"
+    }
+  ],
+  "extensions": {
+    "recommendations": [
+      "Gruntfuggly.todo-tree",
+      "robertohuertasm.vscode-icons",
+      "CoenraadS.bracket-pair-colorizer",
+      "esbenp.prettier-vscode",
+      "jpoissonnier.vscode-styled-components",
+      "kumar-harsh.graphql-for-vscode",
+      "mikestead.dotenv",
+      "mquandalle.graphql",
+      "naumovs.color-highlight",
+      "wix.vscode-import-cost",
+      "ms-vscode.vscode-typescript-tslint-plugin"
+    ]
+  },
+  "settings": {
+    "editor.formatOnSave": true,
+    "prettier.printWidth": 120,
+    "prettier.tabWidth": 2,
+    "prettier.singleQuote": false,
+    "prettier.tslintIntegration": true,
+    "editor.tabSize": 2,
+    "todo-tree.customHighlight": {
+      "GUARD": {
+        "icon": "shield",
+        "type": "line",
+        "background": "#ff8800",
+        "foreground": "#ffffff",
+        "iconColour": "#ff8800"
+      },
+      "FIXME": {
+        "icon": "tools",
+        "type": "line",
+        "background": "#ff0000",
+        "foreground": "#ffffff",
+        "iconColour": "#ff0000"
+      },
+      "TODO": {
+        "icon": "tasklist",
+        "type": "line",
+        "background": "#07c40a",
+        "foreground": "#ffffff",
+        "iconColour": "#07c40a"
+      },
+      "DEBUG": {
+        "icon": "gear",
+        "type": "line",
+        "background": "#0dccdb",
+        "foreground": "#ffffff",
+        "iconColour": "#0dccdb"
+      }
+    },
+    "todo-tree.tags": ["TODO", "FIXME", "GUARD", "DEBUG"]
+  }
+}
