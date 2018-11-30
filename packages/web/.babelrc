@@ -1,4 +1,5 @@
 {
+  "plugins": [["lodash", { "id": ["lodash", "recompose"] }]],
   "env": {
     "development": {
       "presets": ["next/babel", "@zeit/next-typescript/babel"]

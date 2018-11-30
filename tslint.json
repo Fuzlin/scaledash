@@ -1,4 +1,9 @@
 {
   "extends": "tslint:recommended",
-  "rules": {}
+  "rules": {
+    "interface-name": false,
+    "no-empty-interface": false,
+    "interface-over-type-literal": false,
+    "object-literal-sort-keys": false
+  }
 }

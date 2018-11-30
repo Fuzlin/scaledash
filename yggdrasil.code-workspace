@@ -59,6 +59,17 @@
         "iconColour": "#0dccdb"
       }
     },
-    "todo-tree.tags": ["TODO", "FIXME", "GUARD", "DEBUG"]
+    "todo-tree.tags": ["TODO", "FIXME", "GUARD", "DEBUG"],
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/node_modules": true,
+      "**/dist": true,
+      "**/.DS_Store": true
+    },
+    "tslint.jsEnable": true
   }
 }
