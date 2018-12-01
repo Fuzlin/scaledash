@@ -1,5 +1,5 @@
 {
-  "name": "@yggdrasil/web",
+  "name": "@scaledash/web",
   "version": "0.0.0",
   "scripts": {
     "dev": "nodemon server/index.ts",
