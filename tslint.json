@@ -5,5 +5,8 @@
     "no-empty-interface": false,
     "interface-over-type-literal": false,
     "object-literal-sort-keys": false
+  },
+  "linterOptions": {
+    "exclude": ["packages/**/node_modules", "packages/**/dist"]
   }
 }

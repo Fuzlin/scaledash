@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "Gruntfuggly.todo-tree",
+    "robertohuertasm.vscode-icons",
+    "CoenraadS.bracket-pair-colorizer",
+    "esbenp.prettier-vscode",
+    "jpoissonnier.vscode-styled-components",
+    "kumar-harsh.graphql-for-vscode",
+    "mikestead.dotenv",
+    "mquandalle.graphql",
+    "naumovs.color-highlight",
+    "wix.vscode-import-cost",
+    "eg2.tslint"
+  ]
+}
